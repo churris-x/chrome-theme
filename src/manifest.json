@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Fix Search",
+  "short_name": "Fix Search",
+  "version": "1.0.0",
+  "offline_enabled": true,
+  "description": "Fix search bar color",
+  "theme": {
+    "colors": {
+      "frame": [255, 220, 199],
+      "frame_inactive": [255, 248, 245],
+      "toolbar": [255, 248, 245]
+    }
+  },
+  "author": "churris_x"
+}
